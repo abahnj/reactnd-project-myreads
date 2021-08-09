@@ -82,7 +82,7 @@ export default class SearchPage extends Component {
                 </div>
               )}
               {err && (
-                <h3>Search did not return any books. Please try again!</h3>
+                <h3>Did not find any books!</h3>
               )}
             </div>
           </div>
